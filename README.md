@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi Everyone 👋, I am ZER0SEV7N.
+
+**I always try to improve in whatever way I can.**
+
+
 
 <!--
 **ZER0SEV7N/ZER0SEV7N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
