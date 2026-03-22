@@ -5,7 +5,7 @@ I am a Software Developer passionate about building scalable web applications an
 
 ---
 
-### About Me
+### 😊 About Me
 - I’m currently working on **HelpDesk-Backend** (NestJS) and **PlayWish**.
 - I’m constantly learning and improving my skills in **TypeScript** and **Fullstack C#**.
 - I love collaborating on open-source projects and building tech solutions with friends.
