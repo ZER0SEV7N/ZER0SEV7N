@@ -28,3 +28,9 @@ I am a Software Developer passionate about building scalable web applications an
   <img src="https://github-readme-stats.vercel.app/api?username=zer0sev7n&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+---
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-singer-zer0sev7n)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielsinger07@hotmail.com)
