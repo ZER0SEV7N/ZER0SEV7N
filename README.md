@@ -54,7 +54,6 @@ A robust and secure backend service designed for managing support tickets and au
   <!-- Tarjeta Alternativa de Resumen General Activa -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZER0SEV7N&theme=radical" alt="GitHub Profile Details" />
 </p>
----
 
 ### 📫 Let's Connect!
 
