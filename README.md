@@ -1,4 +1,4 @@
-## Hi Everyone 👋, I am Daniel Singer (ZEROSEV7N)
+## Hi Everyone 👋, I am Daniel Singer (ZER0SEV7N)
 
 ### **I always try to improve in whatever way I can.**
 I am a **Full Stack Developer** passionate about building robust, scalable web applications, designing efficient Web APIs, and solving complex architecture problems with clean code.
