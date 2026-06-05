@@ -1,4 +1,4 @@
-## Hi Everyone 👋, I am Daniel Singer (ZER0SEV7N)
+## Hi Everyone 👋, I am Daniel Singer (ZEROSEV7N)
 
 ### **I always try to improve in whatever way I can.**
 I am a **Full Stack Developer** passionate about building robust, scalable web applications, designing efficient Web APIs, and solving complex architecture problems with clean code.
@@ -31,8 +31,9 @@ I am a **Full Stack Developer** passionate about building robust, scalable web a
 
 ### 📂 Featured Projects
 
-#### 🛒 [Tiendamia (E-commerce Clone)](https://github.com/ZER0SEV7N/Tiendamia-backend)
-A complete full-stack e-commerce application utilizing a decoupled architecture. 
+#### 🛒 Tiendamia (E-commerce Clone)
+A complete full-stack e-commerce application utilizing a decoupled architecture.
+* 🖥️ **Repositories:** [[Back-End Code]](https://github.com/ZER0SEV7N/Tiendamia-backend) | [[Front-End Code]](https://github.com/ZER0SEV7N/Tiendamia-frontend)
 * **Back End:** Built with **Java (Spring Boot)** for business logic, security, and scalable data persistence.
 * **Front End:** Interactive interface developed with **React** for a smooth consumer user experience via RESTful APIs.
 
@@ -45,7 +46,9 @@ A robust and secure backend service designed for managing support tickets and au
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zer0sev7n&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZER0SEV7N&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZER0SEV7N&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
