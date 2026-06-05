@@ -17,9 +17,12 @@ I am a **Full Stack Developer** passionate about building robust, scalable web a
 
 ### 🛠 Tech Stack
 
-**Back End & Databases:**
+**Back End:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-000000?style=for-the-badge&logo=springboot&logoColor=green) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.dot.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Databases: **
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Front End Web:**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -46,11 +49,12 @@ A robust and secure backend service designed for managing support tickets and au
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZER0SEV7N&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- Tarjeta de Streak (Días activos, contribuciones totales) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZER0SEV7N&theme=radical" alt="GitHub Streak Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZER0SEV7N&layout=compact&theme=radical" alt="Top Langs" />
+  <!-- Tarjeta Alternativa de Resumen General Activa -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZER0SEV7N&theme=radical" alt="GitHub Profile Details" />
 </p>
-
 ---
 
 ### 📫 Let's Connect!
