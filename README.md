@@ -44,6 +44,11 @@ A robust and secure backend service designed for managing support tickets and au
 * Engineered entirely within the **NestJS** ecosystem.
 * Features real-time bidirectional communication and automated event triggers.
 
+#### 🎮 [Playwis](https://github.com/ZER0SEV7N/PlayWish)
+A collaborative web application designed for managing and organizing video game wishlists.
+* Developed in a team environment to strengthen solid frontend fundamentals and collaborative workflows.
+* Built utilizing **HTML**, **Vanilla JavaScript**, and styled with **Tailwind CSS** for a responsive user interface.
+
 ---
 
 ### 📊 My GitHub Stats
